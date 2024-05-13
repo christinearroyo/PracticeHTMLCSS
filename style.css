@@ -1,0 +1,53 @@
+h2 {
+    color: rgb(255, 230, 230); background-color: rgb(116, 105, 182);
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+h4 {
+    color: rgb(255, 230, 230); background-color: rgb(116, 105, 182);
+    font-weight: 200;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+.paragraph {
+    color: rgb(116, 105, 182); background-color:  rgb(225, 175, 209);
+    text-align: center; 
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+#strong {
+    color: rgb(255, 230, 230); 
+}
+.center {
+    display: block;
+    margin-left: 600px;
+    margin-right: 500px;
+    width: 50%;
+}
+.head {
+    display: block;
+    margin-left: 600px;
+    margin-right: 500px;
+    width: 50%;
+}
